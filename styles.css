@@ -3,7 +3,8 @@ img {
   width:100vw;
 }
 
-html {
+* {
+  object-fit: fill;
   margin: 0px;
   padding: 0px;
 }
