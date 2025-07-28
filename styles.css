@@ -1,4 +1,9 @@
 img {
-  height:100vh;
+  height:100dvh;
   width:100vw;
+}
+
+html {
+  margin: 0px;
+  padding: 0px;
 }
