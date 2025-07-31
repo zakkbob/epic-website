@@ -1,6 +1,6 @@
-# PHPAwesome's *Epic* Website
+# PHPAwesome's *Watermelon* Website
 
 Yeah, this is why you don't collaborate on Figma
-https://phpawesome.zakkbob.dev
+https://phpawesomebutwatermelons.zakkbob.dev
 
 (I sure hope nobody finds this)
